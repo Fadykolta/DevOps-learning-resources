@@ -139,6 +139,3 @@ Here are some of the reosures I use, I selected the top ones with a :star:
 - [Niklas Heidloff](https://twitter.com/nheidloff)
 - [Steve Speicher](https://twitter.com/sspeiche)
 - [Darren Shepherd](https://twitter.com/ibuildthecloud)
-
-
-
